@@ -1,0 +1,1 @@
+Growing up in the Internet era, I have always appreciated the abundance of information about how it exposes a different, sophisticated world to me. A Cornell Engineering education would prepare me for enhancing people's information processing abilities with its world-class computer science program, its emphasis on liberal studies, and its practical spirit.
