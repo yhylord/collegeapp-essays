@@ -1,0 +1,1 @@
+**Prompt**: Everyone belongs to many different communities and/or groups defined by (among other things) shared geography, religion, ethnicity, income, cuisine, interest, race, ideology, or intellectual heritage. Choose one of the communities to which you belong, and _describe that community and your place within it. (100-300 words)_

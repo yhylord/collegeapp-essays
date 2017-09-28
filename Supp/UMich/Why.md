@@ -1,0 +1,1 @@
+**Prompt**: Describe the unique qualities that attract you to the specific undergraduate College or School (including preferred admission and dual degree programs) to which you are applying at the University of Michigan. How would that curriculum support your interests? _(100-550 words)_
