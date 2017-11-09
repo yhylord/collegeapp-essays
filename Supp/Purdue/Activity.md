@@ -1,2 +1,3 @@
 **Prompt**: Please briefly elaborate on one of your extracurricular activities or work experiences. (250 words)
 
+Believing in programming for the better, I co-created a secure voting system, used in a school-wide contest, that prevents unfair automated voting. At Purdue's computer science program, I hope to further study the security of online systems that ensures fairness in the course "Computer Security." Furthermore, the voting system was a joint effort by me and other members of the programming club. I always find working with like-minded people to be pleasant and effective, and thus I would like to join the Computer Science Learning Community, where I can connect to other students both academically and socially.
