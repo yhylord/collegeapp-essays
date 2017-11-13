@@ -1,4 +1,4 @@
-**Prompt**: Think about an academic subject that inspires you. Describe how you have furthered this interest inside and/or outside of the classroom. _(350 words maximum)_
+**Prompt**: Beyond what has already been shared in your application, what do you believe makes you stand out as a strong candidate for admissions to the University of California? _(350 words maximum)_
 
 Learning to program from scratch, I stumbled upon a world of abundant resources, as enthusiasts shared everything they knew to help newcomers. Their passion and willingness to help others impressed me: all I had to do was ask, instead of struggling to debug or learn new concepts on my own. This inspired me to create the live commenting system that displayed real-time reactions to events, which encouraged others to connect, forming a positive feedback loop and establishing further connections within networks.
 
