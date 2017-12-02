@@ -1,0 +1,9 @@
+**Prompt**: If you could have any career, what would it be? Why? Describe any activities you are involved in, life experiences you've had, or even classes you've taken that have helped you identify this professional path. _(250-300 words)_
+
+I wrote the last line of code and nervously clicked "run." White lines of "Hello, world!" flashed across the black background. I smiled at the thought of being in a scene I’d only seen in movies: a hacker who could sneak into any computer by typing commands onto a blank slate.
+
+That was the moment I was captured by computer science, when I felt power flowing through my typing hands. The more I learned, the more I realized that computer science was the science of effective problem solving using computers, which was indeed as powerful as I’d first thought. I formed the belief that technology could be used for great benefits and I should become a programmer who practices it.
+
+In my high school programming club, I developed a specific product aimed at enhancing the experience of the Christmas Eve performance by adding new dimensions through a live commenting system and live streaming it. The former sparks audience creativity and diversifies the types of interaction; the latter enlarges audience size by making the show available to anyone with an internet connection. When there are no major on-campus activities, our remote printing service is still working to reduce the waiting time of printing. Without this service, before printing their files, students must transfer them to one of the four computers connected to the printers. Now, students can access the printers on their computers and print as they need, and the long lines in the computer room have become history.
+
+I am glad to be able to use my skills to develop technological solutions for the student body, improving their lives in a practical way. It affirms my values of applying technology for the good, and I hope to pursue it in a larger arena.
