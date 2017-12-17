@@ -1,0 +1,1 @@
+__Prompt__: The quality of Rice's academic life and the Residential College System are heavily influenced by the unique life experiences and cultural traditions each student brings. What personal perspective would you contribute to life at Rice?  (_500 word_ limit)

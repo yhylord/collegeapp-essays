@@ -1,0 +1,1 @@
+__Prompt__: How did you first learn about Rice University, and what motivated you to apply? (_250 word_ limit)

@@ -1,0 +1,1 @@
+__Prompt__: Please briefly elaborate on one of your extracurricular activities or work experiences. (_150 word_ limit)

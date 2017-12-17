@@ -1,0 +1,1 @@
+__Prompt__: Describe how you plan to pursue your academic interests at USC. Please feel free to address your first- and second-choice major selections. (_250 word_ limit)

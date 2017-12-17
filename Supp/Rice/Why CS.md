@@ -1,0 +1,1 @@
+__Prompt__: With the understanding that the choice of academic school you indicated is not binding, explain why you are applying to that particular school of study. (_150 word_ limit)                    

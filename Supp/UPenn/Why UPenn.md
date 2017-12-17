@@ -1,0 +1,1 @@
+__Prompt__: How will you explore your intellectual and academic interests at the University of Pennsylvania?  Please answer this question given the specific undergraduate school to which you are applying. (_400-650 words_)
