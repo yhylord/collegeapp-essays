@@ -1,15 +1,15 @@
 __Prompt__: How did you first learn about Rice University, and what motivated you to apply? (_250 word_ limit)
 
-I sat down as the information session started.
+"Rice University. Rice - how down to earth, I can't live without it."
 
-"Oh Rice University. How down to earth. I can't live without rice."
+"Houston. As hot and humid as Guangzhou. Weather checked."
 
-"Oh Houston. As humid and hot as Guangzhou. Seems relatable."
+"'Unconventional Wisdom' ... I like the sound of that!"
 
-"Oh the motto of 'Unconventional Wisdom' ... Isn't that me!"
+These three initial impressions I had during the university's information session gave me a natural affinity with Rice, which grew clearer the more I learned about its academic programs and campus culture.
 
-The three facts generated a fuzzy affinity with Rice, clearer as I see myself in it: the place that will nurture my unique intellect.
+How does application essay writing benefit from programming experiences? How are stressed high school seniors similar to 19th century workers? These might seem like odd questions but they come naturally to a reflective individual who applies what he learns to his lived experience. As I go through the rites of application season, I derive pleasure and meaning viewing it through a variety of lenses.
 
-How does application essay writing benefit from programming experiences? Why are stressed high school seniors similar to 19th century workers? "Odd enough," someone might think, "why would anyone come up with these questions?" However, they naturally occur to a reflective individual who puts everything he has learned into perspective - currently the application season - and enjoy viewing things through a variety of lens - sounds like me. Rice's open curriculum can nourish my blend of intellecutalism, driven by which I will devour the spectrum of course offerings that enhance my connection to the world through interdisciplinary knowledge. The diverse personalities at the tight-knit residential colleges will further complement my curiosity of different viewpoints.
+Rice's open curriculum will nourish the full range of my intellectual curiosities and deepen my interactions with the world through its interdisciplinary academic programs. The tight-knit residential colleges will further complement this by bringing me into contact with fellow classmates from diverse backgrounds.
 
-Rice's collaborative atmosphere can team me with other eccentric minds to create tangible impact. Committing to civic engagement, Rice Design for America is a hub of social scientists, designers, and programmers ready to help the local community. At the organization, my distinctive mindset can join others' to dissect social issues and innovate solutions. The journey of an unconventional mind will start from the campus and end in an unconventionally more exciting world.
+Further, Rice's collaborative atmosphere allows me to work with brilliant minds to create tangible impact. Committed to civic engagement, Rice Design for America is a hub of social scientists, designers, and programmers ready to partner the local community to come up with useful solutions to everyday challenges. I know my Rice experience will hone my unconventional mind and provide a platform for my ideas, strengths and energy, paving the way for me to live a life extraordinary.
